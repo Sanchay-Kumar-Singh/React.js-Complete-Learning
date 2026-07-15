@@ -1,12 +1,12 @@
 import React from 'react'
 import ClassComponent from './ClassComponent'
+import UseState from './UseState'
 
 
 const App = () => {
   return (
     <div>
-      <ClassComponent/>
-      
+      <UseState/>
     </div>
   )
 }
