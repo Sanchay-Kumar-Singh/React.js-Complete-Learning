@@ -1,13 +1,10 @@
 import React from 'react'
-import UseEffect from './UseEffect'
-
-
+import DynamicForm from './Components/Form/DynamicForm'
 
 const App = () => {
   return (
     <div>
-      <UseEffect/>
-
+  <DynamicForm/>
     </div>
   )
 }
