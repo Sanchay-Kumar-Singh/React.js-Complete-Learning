@@ -1,12 +1,13 @@
 import React from 'react'
-import ClassComponent from './ClassComponent'
-import UseState from './UseState'
+import UseEffect from './UseEffect'
+
 
 
 const App = () => {
   return (
     <div>
-      <UseState/>
+      <UseEffect/>
+
     </div>
   )
 }
