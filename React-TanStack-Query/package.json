@@ -1,0 +1,1 @@
+{"name":"react-tanstack-query","private":true,"scripts":{"dev":"vite"},"dependencies":{"react":"^19.0.0","react-dom":"^19.0.0","@tanstack/react-query":"^5.0.0"},"devDependencies":{"vite":"^7.0.0","@vitejs/plugin-react":"^5.0.0"}}
